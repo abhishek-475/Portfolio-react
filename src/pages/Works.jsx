@@ -43,7 +43,7 @@ function Works() {
             <Card style={{ textAlign: "center", color: "white" }} bg="dark">
               <Card.Img
                 variant="top"
-                src="https://global.discourse-cdn.cgiom/bubble/original/3X/4/c/4c583a00f6a44768aa32b706547ae96f0162f1a3.png"
+                src="https://png.pngtree.com/png-clipart/20210920/ourmid/pngtree-pen-and-paper-games-tic-tac-toe-games-blue-png-image_3928567.jpg"
                 style={{ width: "100%", height: "150px", objectFit: "contain" }}
               />
              <Card.Body>
